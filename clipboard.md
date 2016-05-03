@@ -280,7 +280,7 @@ For this feature, we should consider some combination of the following:
     read from clipboard".
 * Permission Dialog. With an async clipboard API, this would be more
     acceptable since it wouldn't block the main process.
-* (Permissions API)[https://www.w3.org/TR/permissions/]. Add a "clipboard"
+* [Permissions API](https://www.w3.org/TR/permissions/). Add a "clipboard"
     name to the registry
 
 
